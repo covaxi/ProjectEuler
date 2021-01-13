@@ -1,0 +1,1 @@
+-- Problem 624 : http://projecteuler.net/problem=624 
